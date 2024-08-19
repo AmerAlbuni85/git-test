@@ -1,4 +1,4 @@
 # git-test
 
 
-Das ist mein erstes Mal mit git.git commit -m
+Das ist mein erstes Mal mit git.
